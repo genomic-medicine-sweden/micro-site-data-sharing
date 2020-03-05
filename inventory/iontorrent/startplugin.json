@@ -1,0 +1,246 @@
+{
+  "expmeta": {
+    "sample": "589_002_20",
+    "runid": "W2CBR",
+    "run_name": "R_2020_03_04_14_14_51_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC",
+    "run_flows": 850,
+    "output_file_name_stem": "Auto_PA_CCUG_KMIK_IC_torrent-server_557",
+    "run_date": "2020-03-04T13:16:05Z",
+    "chiptype": "520",
+    "flowOrder": "TACGTACGTCTGAGCATCGATCGATGTACAGC",
+    "barcodeId": "IonCode",
+    "analysis_date": "2020-03-04",
+    "chipBarcode": "DAFG00921",
+    "project": "CCUG,Pseudomonas_KMIK",
+    "instrument": "KMIK-S5-04",
+    "results_name": "Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488",
+    "notes": ""
+  },
+  "sampleinfo": {
+    "584_015_20": {
+      "displayedName": "584_015_20",
+      "description": "",
+      "externalId": "",
+      "name": "584_015_20",
+      "attributes": {}
+    },
+    "589_002_20": {
+      "displayedName": "589_002_20",
+      "description": "",
+      "externalId": "",
+      "name": "589_002_20",
+      "attributes": {}
+    },
+    "584_014_20": {
+      "displayedName": "584_014_20",
+      "description": "",
+      "externalId": "",
+      "name": "584_014_20",
+      "attributes": {}
+    }
+  },
+  "chefSummary": {
+    "chefLotNumber": "",
+    "chefLogPath": "/results/chef_logs/CHEF00975-000979_rc_2020-3-3_1403.tar.gz",
+    "chefSolutionsPart": "A27754C",
+    "chefInstrumentName": "CHEF00975",
+    "chefLastUpdate": "2020-03-04T06:58:38Z",
+    "chefChipExpiration1": "None",
+    "chefChipExpiration2": "None",
+    "chefStatus": "Complete",
+    "chefReagentsPart": "A34018C",
+    "chefSolutionsExpiration": "200831",
+    "chefReagentID": "",
+    "chefScriptVersion": "905",
+    "chefManufactureDate": "",
+    "chefSamplePos": "2",
+    "chefReagentsExpiration": "201031",
+    "chefSolutionsLot": "2114528",
+    "chefProgress": 100,
+    "chefKitType": "Ion 510 & Ion 520 & Ion 530 Kit-Chef",
+    "chefPackageVer": "IC.5.12.1.RC.1",
+    "chefTipRackBarcode": "496250086",
+    "chefExtraInfo_1": "",
+    "chefExtraInfo_2": "",
+    "chefMessage": "",
+    "chefReagentsLot": "2141361",
+    "chefChipType2": "520v1",
+    "chefChipType1": "530v1"
+  },
+  "pluginconfig": {},
+  "datamanagement": {
+    "Basecalling Input": true,
+    "Intermediate Files": true,
+    "Output Files": true,
+    "Signal Processing Input": true
+  },
+  "runinfo": {
+    "testfrag_key": "ATCG",
+    "url_root": "/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557",
+    "chipType": "520",
+    "library": "none",
+    "sigproc_dir": "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/sigproc_results",
+    "pluginresult": 1764,
+    "api_url": "http://8VVZBM2/rundb/api",
+    "barcodeId": "IonCode",
+    "results_dir": "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/plugin_out/seqstore_upload_out.1764",
+    "platform": "s5",
+    "pk": 557,
+    "alignment_dir": "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557",
+    "api_key": "6c21c8f8f0a69af6bd29b89f98f935fc90143f8d",
+    "basecaller_dir": "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/basecaller_results",
+    "net_location": "http://8VVZBM2",
+    "username": "ionuser",
+    "library_key": "TCAG",
+    "systemType": "S5 PRIME",
+    "plugin_name": "seqstore_upload",
+    "tmap_version": "tmap-f3",
+    "report_root_dir": "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557",
+    "plugin": {
+      "pluginresult": 1764,
+      "hold_jid": [],
+      "name": "seqstore_upload",
+      "runtypes": [
+        "composite",
+        "wholechip"
+      ],
+      "pluginconfig": {},
+      "depends": [],
+      "runlevels": [
+        "default"
+      ],
+      "planning_version": "1.2.3.0",
+      "results_dir": "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/plugin_out/seqstore_upload_out.1764",
+      "userInput": "",
+      "version": "1.2.3.0",
+      "path": "/results/plugins/seqstore_upload",
+      "id": 312,
+      "features": []
+    },
+    "chipDescription": "520",
+    "plugin_dir": "/results/plugins/seqstore_upload",
+    "raw_data_dir": "/results/KMIK-S5-04/R_2020_03_04_14_14_51_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC",
+    "analysis_dir": "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557"
+  },
+  "plan": {
+    "planName": "PA_CCUG_KMIK_IC",
+    "username": "ionuser",
+    "sequencekitname": "Ion S5 Sequencing Kit",
+    "librarykitname": "Ion Xpress Plus Fragment Library Kit",
+    "endBarcodeKitName": "",
+    "sampleGrouping": 6,
+    "barcodeId": "IonCode",
+    "controlSequencekitname": null,
+    "regionfile": "",
+    "applicationGroup_id": 1,
+    "runMode": "single",
+    "bedfile": "",
+    "templatingKitName": "Ion Chef S530 V2",
+    "samplePrepKitName": "",
+    "runType": "WGNM",
+    "runTypeDescription": "Whole Genome",
+    "reverse_primer": null,
+    "threePrimeAdapter": "ATCACCGACTGCCCATAGAGAGGCTGAGAC",
+    "sseBedFile": "",
+    "barcodedSamples": {
+      "584_015_20": {
+        "dualBarcodes": [],
+        "barcodeSampleInfo": {
+          "IonCode_0159": {
+            "description": "",
+            "reference": "",
+            "targetRegionBedFile": "",
+            "hotSpotRegionBedFile": "",
+            "nucleotideType": "DNA",
+            "controlSequenceType": "",
+            "externalId": "",
+            "endBarcode": "",
+            "controlType": "",
+            "sseBedFile": ""
+          }
+        },
+        "barcodes": [
+          "IonCode_0159"
+        ]
+      },
+      "584_014_20": {
+        "dualBarcodes": [],
+        "barcodeSampleInfo": {
+          "IonCode_0158": {
+            "description": "",
+            "reference": "",
+            "targetRegionBedFile": "",
+            "hotSpotRegionBedFile": "",
+            "nucleotideType": "DNA",
+            "controlSequenceType": "",
+            "externalId": "",
+            "endBarcode": "",
+            "controlType": "",
+            "sseBedFile": ""
+          }
+        },
+        "barcodes": [
+          "IonCode_0158"
+        ]
+      },
+      "589_002_20": {
+        "dualBarcodes": [],
+        "barcodeSampleInfo": {
+          "IonCode_0160": {
+            "description": "",
+            "reference": "",
+            "targetRegionBedFile": "",
+            "hotSpotRegionBedFile": "",
+            "nucleotideType": "DNA",
+            "controlSequenceType": "",
+            "externalId": "",
+            "endBarcode": "",
+            "controlType": "",
+            "sseBedFile": ""
+          }
+        },
+        "barcodes": [
+          "IonCode_0160"
+        ]
+      }
+    },
+    "sampleTubeLabel": "C0616095"
+  },
+  "runplugin": {
+    "run_type": "composite",
+    "block_dirs": [
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X5760_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X1920_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X640_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X0_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X4480_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X3840_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X3200_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X5760_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X1280_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X6400_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X1920_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X2560_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X3200_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X7040_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X640_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X3840_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X4480_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X1280_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X2560_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X5120_Y0",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X5120_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X7040_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X6400_Y864",
+      "/results/analysis/output/Home/Auto_user_KMIK-S5-04-241-PA_CCUG_KMIK_IC_488_557/block_X0_Y864"
+    ],
+    "blockId": "",
+    "runlevel": "default",
+    "numBlocks": 24,
+    "run_mode": "pipeline"
+  },
+  "globalconfig": {
+    "debug": 0,
+    "MEM_MAX": "15G"
+  }
+}

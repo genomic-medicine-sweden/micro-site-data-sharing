@@ -17,6 +17,8 @@ Det finns en instruktion om hur man ansluter publicerad i projektet (jag är doc
 _Actionpunkt_:\
 Det beslutades gemensamt att alla får till uppgift att säkerställa inloggning på VPN:et.
 
+Man behöver installera CiscoAnyconnect och sedan ansluta till https://asa.vpn.gu.se/
+
 När man anslutit till VPN:et ska man verifiera att man kan nå maskinen genom att ansluta med ssh till maskinen:
 ````
    ssh -l <användarnamn> 10.248.210.5
@@ -49,9 +51,9 @@ Tomas uttryckte en känsla av att sakna överblick ifråga om projektets övergr
 
 Per presenterade att han såg några olika och ganska tydliga delar i det delprojekt som kallas "AP2". I en gemensam diskussion identifierade vi fyra övergripande områden som ska arbetas med i arbetspaketet.
 
-Förslag på övergripande arbetsordning för projektet:
+Efter diskussion enades mötet om att formulera fyra huvudområde som projektet arbetar inom och föreslog ansvariga deltagare enligt nedan.\
  
-*Praktisk uppgift att skapa konnektivitet*\
+**Praktisk uppgift att skapa konnektivitet**\
 Detta arbetspaket berör frågor om praktisk anslutning av system för deltagande enheter. Arbetet innefattar att utveckla system och komponenter för att underlätat enheternas anslutning till lagringsmiljön samt för att överföra data från sekvensieringsinstrumenten.
 
 Deltar i denna del gör:
@@ -60,8 +62,9 @@ Deltar i denna del gör:
 - Mårten
 - Isak
 - Jens
+\
 
-*Informatik*
+**Informatik**\
 Arbetsområde informatik berör frågor relaterade till inforamationsstandarder och struktur för informationen. Arbetet ska definiera format och protokoll för överföringen av information både avseende insamling och resultatrapportering. Erik leder arbetet med stöd av Tomas. Domänkunskap och stöd för frågor om specifikt bioinformatik ges i första ledet av Vilma.
 
 Deltar i denna del gör:
@@ -69,8 +72,9 @@ Deltar i denna del gör:
 - *Erik*
 - Tomas
 - Vilma
+\
 
-*Akritektur för NGP*\
+**Akritektur för NGP**\
 Arbetsområdet avser att besluta om och dokumentera den övergripande arkitekturen för systemet. 
 
 Deltar i denna del gör:
@@ -78,10 +82,10 @@ Deltar i denna del gör:
 - *Per*
 - Tomas
 - Henrik
+\
 
-
-*Pipeline Mikro*\
-Detta arbetsområde avser att genomfrös en praktisk pilot där hela kedjan testas för ett antal analyser inom området mikrobiologi.\
+**Pipeline Mikro**\
+Detta arbetsområde avser att genomfrös en praktisk pilot där hela kedjan testas för ett antal analyser inom området mikrobiologi.
 
 Deltar i denna del gör:
 
@@ -89,6 +93,3 @@ Deltar i denna del gör:
 - Jens
 - Mårten
 - Jenny/Tobias
-
-
-

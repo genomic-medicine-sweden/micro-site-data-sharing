@@ -34,18 +34,18 @@ The PGM is also used by the microbiology department but does not produce clinica
 
 ### Illumina
 
-| Instrument | bcl2fastq | Notes                       |
-|------------|-----------|-----------------------------|
+| Instrument | bcl2fastq | Notes              |
+|------------|-----------|--------------------|
 | Novaseq    | 2.20      | Most commonly used |
-| iSeq    | 2.20      |                             |
-| HiSeq 2500    | 1.8.4      |                         |
-| HiSeq X    | 2.15      |  |
+| iSeq       | 2.20      |                    |
+| HiSeq 2500 | 1.8.4     |                    |
+| HiSeq X    | 2.15      |                    |
 
 
 
 ### Oxford Nanopore 
 
-| Instrument  | Notes                       |
-|------------|-----------------------------|
+| Instrument | Notes                    |
+|------------|--------------------------|
 | Flongle    | High microbial relevance |
 

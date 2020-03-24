@@ -49,3 +49,25 @@ The PGM is also used by the microbiology department but does not produce clinica
 |------------|--------------------------|
 | Flongle    | High microbial relevance |
 
+
+## Örebro, Clinical Genomics
+
+### Illumina
+
+| Instrument | bcl2fastq | Notes              |
+|------------|-----------|--------------------|
+| NextSeq    | 2.20      |                    |
+| MiSeq      |           |                    |
+
+### Thermo Fisher
+
+| Instrument | Notes                    |
+|------------|--------------------------|
+| Ion S5     |                          |
+
+
+### Oxford Nanopore
+
+| Instrument | Notes                    |
+|------------|--------------------------|
+| MinION     |                          |

@@ -1,0 +1,47 @@
+[Header]
+IEMFileVersion,5
+Investigator Name,SL
+Experiment Name,WGS_Prep22_Pool22_200228_SL
+Date,2020-02-28
+Workflow,GenerateFASTQ
+Application,NovaSeq FASTQ Only
+Instrument Type,NovaSeq
+Assay,TruSeq DNA PCR-Free
+Index Adapters,"IDT-ILMN TruSeq DNA UD Indexes (96 Indexes)"
+Chemistry,Amplicon
+
+[Reads]
+151
+151
+
+[Settings]
+Adapter,AGATMJAAGAGCACACGTCTGAACTCCAGTCA
+AdapterRead2,AGATMJAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+[Data]
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,Index_Plate_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+Placeholder,Placeholder,,,A11,UDI0081,AACTGTAG,UDI0081,ACGCCGCA,KG,
+Placeholder,Placeholder,,,B11,UDI0082,GGTCACGA,UDI0082,GTATTATG,KG,
+Placeholder,Placeholder,,,C11,UDI0083,CTGCTTCC,UDI0083,GATAGATC,KG,
+Placeholder,Placeholder,,,D11,UDI0084,TCATCCTT,UDI0084,AGCGAGCT,KG,
+Placeholder,Placeholder,,,E11,UDI0085,AGGTTATA,UDI0085,CAGTTCCG,KG,
+Placeholder,Placeholder,,,F11,UDI0086,GAACCGCG,UDI0086,TGACCTTA,KG,
+Placeholder,Placeholder,,,G11,UDI0087,CTCACCAA,UDI0087,CTAGGCAA,KG,
+Placeholder,Placeholder,,,H11,UDI0088,TCTGTTGG,UDI0088,TCGAATGG,KG,
+Placeholder,Placeholder,,,A12,UDI0089,TATCGCAC,UDI0089,CTTAGTGT,KG,
+Placeholder,Placeholder,,,B12,UDI0090,CGCTATGT,UDI0090,TCCGACAC,KG,
+Placeholder,Placeholder,,,C12,UDI0091,GTATGTTC,UDI0091,AACAGGAA,KG,
+Placeholder,Placeholder,,,D12,UDI0092,ACGCACCT,UDI0092,GGTGAAGG,KG,
+Placeholder,Placeholder,,,E12,UDI0093,TACTCATA,UDI0093,CCTGTGGC,PAT,
+Placeholder,Placeholder,,,F12,UDI0094,CGTCTGCG,UDI0094,TTCACAAT,PAT,
+Placeholder,Placeholder,,,G12,UDI0095,TCGATATC,UDI0095,ACACGAGT,PAT,
+Placeholder,Placeholder,,,H12,UDI0096,CTAGCGCT,UDI0096,GTGTAGAC,PAT,
+Placeholder,Placeholder,,,A01,UDI0001,CCGMJTT,UDI0001,AGCGCTAG,KG,
+Placeholder,Placeholder,,,B01,UDI0002,TTATAACC,UDI0002,GATATCGA,KG,
+Placeholder,Placeholder,,,C01,UDI0003,GGACTTGG,UDI0003,CGCAGACG,KG,
+Placeholder,Placeholder,,,D01,UDI0004,AAGTCCAA,UDI0004,TATGAGTA,KG,
+Placeholder,Placeholder,,,E01,UDI0005,ATCCACTG,UDI0005,AGGTGCGT,KG,
+Placeholder,Placeholder,,,F01,UDI0006,GCTTGTCA,UDI0006,GAACATAC,KG,
+Placeholder,Placeholder,,,G01,UDI0007,CAAGCTAG,UDI0007,ACATAGCG,KK,
+Placeholder,Placeholder,,,H05,UDI0040,MJACAAC,UDI0040,TCMJATT,KG,
+Placeholder,Placeholder,,,B07,UDI0050,GCGCTCTA,UDI0050,GCTCCGAC,PAT,
